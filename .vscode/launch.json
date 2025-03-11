@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/new.js",
+      "program": "${workspaceFolder}/JS中几种继承方法.ts",
       "outFiles": ["${workspaceFolder}/**/*.js"]
     }
   ]
