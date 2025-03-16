@@ -9,8 +9,9 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/JS中几种继承方法.ts",
-      "outFiles": ["${workspaceFolder}/**/*.js"]
+      "program": "${workspaceFolder}/数组扁平化.ts",
+      "outFiles": ["${workspaceFolder}/**/*.js"],
+      "console": "integratedTerminal"
     }
   ]
 }
