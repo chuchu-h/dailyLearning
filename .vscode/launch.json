@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/数组扁平化.ts",
+      "program": "${workspaceFolder}/generator.ts",
       "outFiles": ["${workspaceFolder}/**/*.js"],
       "console": "integratedTerminal"
     }
